@@ -4,9 +4,17 @@
 }
 
 *{
-  background; green;
+  background: green;
 }
 
 *{
-  color: yellow;
+  color: orange;
+}
+
+h1{
+color: pink;
+}
+
+.abc {
+  color: blue;
 }

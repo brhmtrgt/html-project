@@ -11,6 +11,9 @@
   color: orange;
 }
 
+*{
+  list-style-position: inside;
+}
 h1{
 color: pink;
 }

@@ -11,9 +11,12 @@
   color: orange;
 }
 
-*{
-  list-style-position: inside;
-}
+  l
+* {
+       display: inline-block;
+       margin-left: auto;
+       margin-right: auto;
+    }
 h1{
 color: pink;
 }

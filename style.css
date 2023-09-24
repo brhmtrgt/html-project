@@ -11,13 +11,8 @@
   color: orange;
 }
 
-  l
-ol {
-  margin-left: -40px;
-  margin-top: -20px;
-  list-style-position: inside;
-}
-ul {
+  
+ol{
   margin-left: -40px;
   margin-top: -20px;
   list-style-position: inside;
@@ -28,9 +23,14 @@ h1{
 color: pink;
 }
 
+h2{
+color: purple;
+}
+
 .abc {
   color: blue;
 }
+
 #main {
   font-size: 50px;
 }
